@@ -14,3 +14,4 @@ The key fingerprint is:
 SHA256:E+Q332aJ/uqGCD7ftDYUqxrh/eg2iMJg1Smc4+BQWoc josephibok36@gmail.com
 
 Passphrase: cypher
+npm create sanity@latest -- --template get-started --project edn8i11a --dataset production --provider sanity

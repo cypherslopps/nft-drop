@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@coinbase/wallet-sdk": "^3.6.4",
     "@thirdweb-dev/chains": "^0.1.6",
     "@thirdweb-dev/react": "^3.10.3",
     "@thirdweb-dev/sdk": "^3.10.3",
