@@ -1,0 +1,16 @@
++---[RSA 4096]----+
+|   .    .        |
+|  E .  o         |
+| +..o . o o      |
+|o. * o   o.o o . |
+|o + o . S  oo =  |
+|.o . ..o .o. o   |
+|.o   ooo.+...    |
+|  o . +.==+...   |
+|   .  .*+o++o..  |
++----[SHA256]-----+
+
+The key fingerprint is:
+SHA256:E+Q332aJ/uqGCD7ftDYUqxrh/eg2iMJg1Smc4+BQWoc josephibok36@gmail.com
+
+Passphrase: cypher
