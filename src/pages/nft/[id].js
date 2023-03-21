@@ -51,7 +51,7 @@ const NFTDropPage = () => {
 
           <hr className="my-2 border border-gray-100" />
 
-          {address && <p className="text-center text-sm text-rose-400">You're logged in with wallet {address.substring(0, 5)}...{address.substring(address.lenght - 5)}</p>}
+          {address && <p className="text-center text-sm text-rose-400">{`You're logged in with wallet {address.substring(0, 5)}...{address.substring(address.lenght - 5)}`}</p>}
 
           {/* Content */}
           <div className="mt-10 flex flex-1 flex-col items-center space-y-3 lg:space-y-0 lg:justify-center">
